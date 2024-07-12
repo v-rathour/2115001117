@@ -1,0 +1,34 @@
+.find-form {
+    /* Add your styling for the form here */
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-label {
+    /* Add your styling for the label here */
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.form-input {
+    /* Add your styling for the input here */
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.form-button {
+    /* Add your styling for the button here */
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
